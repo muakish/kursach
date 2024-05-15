@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<price-table>
+  <row class="header">
+    <cell>ЗАЛ</cell>
+    <cell>ПН-ЧТ</cell>
+    <cell>ПТ-ВС</cell>
+    <cell>НОЧЬ</cell>
+  </row>
+  <row>
+    <cell>STANDART</cell>
+    <cell>3р</cell>
+    <cell>4р</cell>
+    <cell>20р</cell>
+  </row>
+  <row>
+    <cell>VIP</cell>
+    <cell>4р</cell>
+    <cell>5р</cell>
+    <cell>25р</cell>
+  </row>
+  <row>
+    <cell>SUPER VIP</cell>
+    <cell>4.5р</cell>
+    <cell>5.5р</cell>
+    <cell>28р</cell>
+  </row>
+  <row>
+    <cell>PS 5</cell>
+    <cell>6р</cell>
+    <cell>8р</cell>
+    <cell>40р</cell>
+  </row>
+</price-table>
